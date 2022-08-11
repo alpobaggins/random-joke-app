@@ -1,0 +1,4 @@
+export const GET_RANDOM_JOKE = 'GET_RANDOM_JOKE';
+export const GET_WITHOUT_CHUCK_JOKE = 'GET_WITHOUT_CHUCK_JOKE';
+export const GET_SAVE = 'GET_SAVE';
+export const GET_DELETE = 'GET_DELETE';
